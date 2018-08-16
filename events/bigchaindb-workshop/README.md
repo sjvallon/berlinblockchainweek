@@ -110,7 +110,7 @@ speakers:
 
    # The bio is a single line.
    # Linebreaks are ignored, but they _must_ start with two spaces.
-   bio: Gautam heads Consulting Services at BigchainDB. He is a
+   Gautam heads Consulting Services at BigchainDB. He is a
    co-author of "Beginning Blockchain" book and also the
    co-creator of the RBAC (Role-based Access Control) framework
    for BigchainDB assets. For most of this decade, he has been
